@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618363184085",
+    "project_id": "car-loan-calculator-fa2f2",
+    "storage_bucket": "car-loan-calculator-fa2f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618363184085:android:c8483acca858eb9fe4d35c",
+        "android_client_info": {
+          "package_name": "gautam.co.loan_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618363184085-l7vgvktceljf7m5jd17kcpk5fk205f9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFLtwVpfvwQ42fsDTaJngasrdNoBKOXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618363184085-l7vgvktceljf7m5jd17kcpk5fk205f9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
